@@ -33,6 +33,7 @@ npm install
 ## 🔐 Environment Setup
 
 **env**: REACT_APP_API_KEY=your_api_key_here
+</br>
 **.env**: REACT_APP_API_URL=https://your-api-endpoint.com/enhance
 
 ## ▶️ Running the Project
