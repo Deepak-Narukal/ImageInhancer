@@ -32,7 +32,7 @@ npm install
 
 ## 🔐 Environment Setup
 
-**env**: REACT_APP_API_KEY=your_api_key_here
+**.env**: REACT_APP_API_KEY=your_api_key_here
 </br>
 **.env**: REACT_APP_API_URL=https://your-api-endpoint.com/enhance
 
@@ -42,19 +42,19 @@ npm start
 
 ## 📁 Project Structure
 
-imageenhancer/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── ImageUpload.jsx
-│ │ └── ImageResult.jsx
-│ ├── api/
-│ │ └── enhanceImage.js
-│ ├── App.jsx
-│ ├── index.js
-│ └── styles/
-│ └── app.css
-├── .env
+imageenhancer/</br>
+├── public/</br>
+├── src/</br>
+│ ├── components/</br>
+│ │ ├── ImageUpload.jsx</br>
+│ │ └── ImageResult.jsx</br>
+│ ├── api/</br>
+│ │ └── enhanceImage.js</br>
+│ ├── App.jsx</br>
+│ ├── index.js</br>
+│ └── styles/</br>
+│ └── app.css</br>
+├── .env</br>
 └── README.md
 
 ## 💡 How It Works
